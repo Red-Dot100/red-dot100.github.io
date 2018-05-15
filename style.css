@@ -9,6 +9,6 @@ body {
   padding: 10px;
 }
 
-#header a {
+#header > a {
   padding-right: 10px;
 }
