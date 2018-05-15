@@ -1,14 +1,22 @@
-body {
+#body{
+  padding: none;
+}
+
+#main {
   margin-left: 20%;
   margin-right: 20%;
 }
 
 #header {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  
   background-color: grey;
-  color: white;
-  padding: 10px;
 }
 
 #header > a {
   padding-right: 10px;
+  color: white;
 }
