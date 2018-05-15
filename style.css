@@ -1,17 +1,18 @@
-#body{
-  padding: none;
+body{
+  margin: 0px;
 }
 
 #main {
   margin-left: 20%;
   margin-right: 20%;
+  margin-top: 10px;
 }
 
 #header {
   padding-left: 20%;
   padding-right: 20%;
   padding-top: 20px;
-  padding-bottom: 50px;
+  padding-bottom: 5px;
   
   background-color: grey;
 }
