@@ -31,10 +31,13 @@ body{
   margin-bottom: 20px
 }
 
-#header > a:hover{
+#header > a:hover {
   color: #90a4ae;
 }
 
+#header > .active {
+  color: #212121;
+}
 
 /* Tables */
 
