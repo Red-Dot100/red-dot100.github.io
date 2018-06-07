@@ -1,2 +1,3 @@
-function openTab(class):
+function openTab(class){
   console.log(class);
+}
